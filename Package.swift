@@ -13,6 +13,6 @@ let package = Package(
       .binaryTarget(
          name: "TwilioVerifyPasskeys",
          url: "https://github.com/twilio/twilio-verify-passkeys-ios/releases/download/v0.4.0/TwilioPasskeysAuthentication.xcframework.zip",
-         checksum: "eae45efdd6f623de7f1f81e017e04af41d8fff330b8a75dfa4082a17f6778eee")
+         checksum: "1f5c00dc3c03faa0ba0f3d690b430db7e707ff826aa0f8f0fa1364259ad34d5c")
    ]
 )
